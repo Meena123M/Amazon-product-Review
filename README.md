@@ -1,5 +1,9 @@
 # 🛍️ Amazon Product Review Sentiment Analysis
 
+## 🎥 Project Demo
+
+👉 [Watch Video on Google Drive](https://drive.google.com/file/d/1k_GgJHjAnzv8N9xy4hpl2T6qmsbL9DIm/view?usp=sharing)
+
 This project focuses on classifying Amazon product reviews as **positive** or **negative** using a combination of **Natural Language Processing (NLP)**, **Machine Learning**, and **Deep Learning** techniques.
 
 ---
